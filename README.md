@@ -1,2 +1,2 @@
 # Session_8_Assignment_3
-Normal distribution calculation
+Analysis using Z-score calculation
